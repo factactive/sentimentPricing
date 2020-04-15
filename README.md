@@ -6,3 +6,6 @@ Code:
 In this example data from 22/03 was used for about 15 days of data
 2. Scraper script used to collect twitter data from traders. Code keys for twitter need to be created. 
 In this example data from 22/03 was used for about 400,000 tweets
+
+Data:
+30 stocks comprising the Dow Jones Industrial average in csv format
